@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Give credit to any resources, individuals, or libraries that you would like to acknowledge.
+Next.js official doucmentation, w3Schools
